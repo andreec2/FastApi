@@ -33,27 +33,7 @@ Accede a la documentación automática en [http://localhost:8000/docs](http://lo
 
 ## Estructura del proyecto
 
-fastapi-app/
-├── app/
-│   ├── api/
-│   │   ├── __init__.py
-│   │   └── routes.py
-│   ├── core/
-│   │   ├── __init__.py
-│   │   └── Config.py
-│   ├── db/
-│   │   ├── __init__.py
-│   │   └── session.py
-│   ├── models/
-│   │   ├── __init__.py
-│   │   └── user.py
-│   ├── services/
-│   │   ├── __init__.py
-│   │   └── user_service.py
-│   └── __init__.py
-├── main.py
-├── requirements.txt
-└── README.md
+<img width="241" height="432" alt="image" src="https://github.com/user-attachments/assets/64493376-033d-4383-98a6-debe381c0961" />
 
 
 A continuación se explica el propósito de cada uno de los directorios y archivos principales del proyecto:
